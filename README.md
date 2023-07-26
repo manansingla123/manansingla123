@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manansingla123&label=Profile%20views&color=0e75b6&style=flat" alt="manansingla123" /> </p>
 
-- 🌱 I’m currently learning **DSA,Python,Machine Learning,Deep Learning**
+- 🌱 I’m currently learning **DSA,Python,web development**
 
-- 💬 Ask me about **C,C++,Object Oriented programming,**
+- 💬 Ask me about **C,C++,Object Oriented programming,python,html,css,tailwind css**
 
-- 📫 How to reach me **manansingla200704@gmail.com**
+- 📫 How to reach me **msingla_be22@thapar.edu**
 
 - ⚡ Fun fact **I eat a lot but still I am slim**
 
